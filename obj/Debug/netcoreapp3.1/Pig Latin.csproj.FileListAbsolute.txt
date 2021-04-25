@@ -1,0 +1,13 @@
+C:\Users\alexc\OneDrive\Documents\C#\School\Pig Latin\bin\Debug\netcoreapp3.1\Pig Latin.exe
+C:\Users\alexc\OneDrive\Documents\C#\School\Pig Latin\bin\Debug\netcoreapp3.1\Pig Latin.deps.json
+C:\Users\alexc\OneDrive\Documents\C#\School\Pig Latin\bin\Debug\netcoreapp3.1\Pig Latin.runtimeconfig.json
+C:\Users\alexc\OneDrive\Documents\C#\School\Pig Latin\bin\Debug\netcoreapp3.1\Pig Latin.runtimeconfig.dev.json
+C:\Users\alexc\OneDrive\Documents\C#\School\Pig Latin\bin\Debug\netcoreapp3.1\Pig Latin.dll
+C:\Users\alexc\OneDrive\Documents\C#\School\Pig Latin\bin\Debug\netcoreapp3.1\Pig Latin.pdb
+C:\Users\alexc\OneDrive\Documents\C#\School\Pig Latin\obj\Debug\netcoreapp3.1\Pig Latin.csprojAssemblyReference.cache
+C:\Users\alexc\OneDrive\Documents\C#\School\Pig Latin\obj\Debug\netcoreapp3.1\Pig Latin.AssemblyInfoInputs.cache
+C:\Users\alexc\OneDrive\Documents\C#\School\Pig Latin\obj\Debug\netcoreapp3.1\Pig Latin.AssemblyInfo.cs
+C:\Users\alexc\OneDrive\Documents\C#\School\Pig Latin\obj\Debug\netcoreapp3.1\Pig Latin.csproj.CoreCompileInputs.cache
+C:\Users\alexc\OneDrive\Documents\C#\School\Pig Latin\obj\Debug\netcoreapp3.1\Pig Latin.dll
+C:\Users\alexc\OneDrive\Documents\C#\School\Pig Latin\obj\Debug\netcoreapp3.1\Pig Latin.pdb
+C:\Users\alexc\OneDrive\Documents\C#\School\Pig Latin\obj\Debug\netcoreapp3.1\Pig Latin.genruntimeconfig.cache
